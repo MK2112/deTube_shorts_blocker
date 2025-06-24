@@ -36,10 +36,9 @@ To use this userscript, you will need a userscript manager extension installed i
 ### Steps:
 
 1. Install a userscript manager from above.
-2. Install this script from [GreasyFork.org](https://greasyfork.org) *(or other source)*.
-3. Alternative to step 2, from here on: Create a new, empty userscript in the manager.
+3. Create a new, empty userscript in the manager.
 4. Copy-paste the script into the empty userscript.
-5. Enjoy YT without Shorts cluttering your experience.
+5. Enjoy YT without Shorts cluttering your brain.
 
 Thank you to everyone in the userscript community for supporting open customization tools like this one.
 
@@ -47,12 +46,12 @@ Thank you to everyone in the userscript community for supporting open customizat
 
 ```
 shorts_blocker/
-├── shorts_blocker.user.js  # Main userscript file
-├── README.md               # This file
-└── LICENSE                 # MIT License
+├── yt_shorts_blocker.js  # Main userscript file
+├── README.md             # This file
+└── LICENSE               # MIT License
 ```
 
-* The script listens for page navigations to catch YouTube’s SPA behavior and redirects Shorts URLs early.
+* The script listens for page navigations to catch YouTube's SPA behavior and redirects Shorts URLs early.
 * It continuously monitors the DOM for Shorts elements and removes them as they load.
 * It does **not** collect or transmit any user data at any point
 
