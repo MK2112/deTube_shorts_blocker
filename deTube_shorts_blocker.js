@@ -1,27 +1,27 @@
 // ==UserScript==
-// @name            Shorts Blocker
-// @name:de         Shorts Blocker
-// @name:es         Shorts Blocker
-// @name:fr         Shorts Blocker
-// @name:it         Shorts Blocker
-// @name:pt         Shorts Blocker
-// @name:ru         Shorts Blocker
-// @name:ja         Shorts Blocker
-// @name:ko         Shorts Blocker
-// @name:zh-CN      Shorts Blocker
-// @name:zh-TW      Shorts Blocker
-// @name:nl         Shorts Blocker
-// @name:pl         Shorts Blocker
-// @name:sv         Shorts Blocker
-// @name:da         Shorts Blocker
-// @name:no         Shorts Blocker
-// @name:fi         Shorts Blocker
-// @name:tr         Shorts Blocker
-// @name:ar         Shorts Blocker
-// @name:he         Shorts Blocker
-// @name:hi         Shorts Blocker
-// @name:th         Shorts Blocker
-// @name:vi         Shorts Blocker
+// @name            deTube Shorts Blocker
+// @name:de         deTube Shorts Blocker
+// @name:es         deTube Shorts Blocker
+// @name:fr         deTube Shorts Blocker
+// @name:it         deTube Shorts Blocker
+// @name:pt         deTube Shorts Blocker
+// @name:ru         deTube Shorts Blocker
+// @name:ja         deTube Shorts Blocker
+// @name:ko         deTube Shorts Blocker
+// @name:zh-CN      deTube Shorts Blocker
+// @name:zh-TW      deTube Shorts Blocker
+// @name:nl         deTube Shorts Blocker
+// @name:pl         deTube Shorts Blocker
+// @name:sv         deTube Shorts Blocker
+// @name:da         deTube Shorts Blocker
+// @name:no         deTube Shorts Blocker
+// @name:fi         deTube Shorts Blocker
+// @name:tr         deTube Shorts Blocker
+// @name:ar         deTube Shorts Blocker
+// @name:he         deTube Shorts Blocker
+// @name:hi         deTube Shorts Blocker
+// @name:th         deTube Shorts Blocker
+// @name:vi         deTube Shorts Blocker
 // @version         0.0.1
 // @description     Blocks YT Shorts elements and redirects Shorts URLs to standard video pages.
 // @description:de  Blockiert YT Shorts und leitet Shorts-URLs zu normalen Videoseiten um.
