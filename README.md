@@ -1,6 +1,6 @@
 # YT Shorts Blocker
 
-**Shorts Blocker** is a userscript to block YouTube Shorts and redirect Shorts URLs to the regular video player page on YT.
+**YT Shorts Blocker** is a userscript to block YouTube Shorts and redirect Shorts URLs to the regular video player page on YT.
 The script removes Shorts elements from the interface and ensures vertical video links open as standard videos.
 
 Many areas on YouTube now aggressively promote Shorts content, including the homepage, sidebars, and video feeds.<br>
