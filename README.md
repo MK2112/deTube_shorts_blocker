@@ -59,3 +59,7 @@ shorts_blocker/
 ## License
 
 MIT.
+
+This software is provided "as is", without warranty of any kind.<br>
+**Use at your own risk.** Intended for educational use.<br>
+You assume full responsibility for compliance with YouTube's Terms of Service and for any consequences arising from its use.
