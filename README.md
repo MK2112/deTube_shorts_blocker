@@ -1,22 +1,22 @@
-# YT Shorts Blocker
+# deTube Shorts Blocker
 
-**YT Shorts Blocker** is a userscript to block YT Shorts and redirect Shorts URLs to the regular video player page on YT.
+**deTube Shorts Blocker** is a userscript to block YT Shorts and redirect Shorts URLs to the regular video player page.
 The script removes Shorts elements from the interface and ensures vertical video links open as standard videos.
 
 Many areas on YT now aggressively promote Shorts content, including the homepage, sidebars, and video feeds.<br>
 While intended to boost short-form engagement, this can result in:
 
 * Constant exposure to unwanted vertical content,
-* Disruption of traditional YT browsing experience,
+* Disruption of browsing experience,
 * Cluttered UI with Shorts shelves and icons,
 * All of the above.
 
 ## How it works
 
 This userscript operates by watching for URL changes and DOM mutations to detect Shorts content.<br>
-It redirects `/shorts/` URLs to `/watch?v=...`, and hides Shorts sections across the YT UI.
+It redirects `/shorts/` URLs to `/watch?v=...`, and hides Shorts sections across the UI.
 
-It doesn’t use or depend on YT's internal APIs. Instead, the script uses a combination of URL rewriting and DOM cleanup to maintain a Shorts-free environment.
+It doesn't use or depend on YT's interna APIs. Instead, the script uses a combination of URL rewriting and DOM cleanup to maintain a Shorts-free environment.
 
 ## Supported Browsers
 
@@ -46,9 +46,9 @@ Thank you to everyone in the userscript community for supporting open customizat
 
 ```
 shorts_blocker/
-├── yt_shorts_blocker.js  # Main userscript file
-├── README.md             # This file
-└── LICENSE               # MIT License
+├── deTube_shorts_blocker.js  # Main userscript file
+├── README.md                 # This file
+└── LICENSE                   # MIT License
 ```
 
 * The script listens for page navigations to catch YT's SPA behavior and redirects Shorts URLs early.
